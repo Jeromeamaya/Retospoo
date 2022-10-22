@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ejercicio8",
+            "request": "launch",
+            "mainClass": "Ejercicio8",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto2",
+            "request": "launch",
+            "mainClass": "Reto2",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto5",
+            "request": "launch",
+            "mainClass": "Reto5",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto4",
+            "request": "launch",
+            "mainClass": "Reto4",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto3",
+            "request": "launch",
+            "mainClass": "Reto3",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto7",
+            "request": "launch",
+            "mainClass": "Reto7",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto6",
+            "request": "launch",
+            "mainClass": "Reto6",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio4talleres",
+            "request": "launch",
+            "mainClass": "Ejercicio4talleres",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejerciciogrupo",
+            "request": "launch",
+            "mainClass": "Ejerciciogrupo",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicioexito",
+            "request": "launch",
+            "mainClass": "Ejercicioexito",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejerciciofor",
+            "request": "launch",
+            "mainClass": "Ejerciciofor",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CaraySello",
+            "request": "launch",
+            "mainClass": "CaraySello",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicio2",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto1",
+            "request": "launch",
+            "mainClass": "Reto1",
+            "projectName": "retospoo_8b0bd2b5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ejerciciobar",
+            "request": "launch",
+            "mainClass": "ejerciciobar",
+            "projectName": "retospoo_8b0bd2b5"
+        }
+    ]
+}
